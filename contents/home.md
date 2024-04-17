@@ -1,6 +1,6 @@
-Website currently under development. 
+<strong>Website currently under development. </strong>
 
-Dr. Isabelle Goldstein is currently a Postdoctoral Researcher, at the Mitchell Institute of Fundamental Physics, Texas A&M University.
+Isabelle Goldstein is currently a Postdoctoral Researcher at the Mitchell Institute of Fundamental Physics, Texas A&M University.
 
 <a href="https://isabelle-goldstein.github.io/folder/GoldsteinCV_v2.pdf" target="_blank"><strong>Curriculum Vitae</strong></a>
 
