@@ -343,7 +343,7 @@ label {
 
 button {
   border-radius: 8px;
-  background-color: #71a3d4;
+  /*background-color: #71a3d4;*/
 }
 
 button:focus:not(:focus-visible) {
@@ -2057,7 +2057,7 @@ progress {
   -webkit-margin-end: 0.75rem;
           margin-inline-end: 0.75rem;
   color: #212529;
-  background-color: #e9ecef;
+  background-color: #71a3d4; /*#e9ecef;*/
   pointer-events: none;
   border-color: inherit;
   border-style: solid;
