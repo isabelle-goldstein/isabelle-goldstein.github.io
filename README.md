@@ -42,6 +42,7 @@ The directory structure is as follows:
 To add a section, go to file static/js/scripts.js and add a string to 
 line 5: const section_names = ['home', 'publications', 'name' ]
 then add or remove a file contents/name.md . The section will be titled NAME .
+Also must adjust index.html . An example AWARDS section is commented out.
 
 (3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
