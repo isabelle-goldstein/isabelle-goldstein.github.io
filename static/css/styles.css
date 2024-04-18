@@ -343,7 +343,7 @@ label {
 
 button {
   border-radius: 8px;
-  background-color: #6bb0fd;
+  background-color: #71a3d4;
 }
 
 button:focus:not(:focus-visible) {
