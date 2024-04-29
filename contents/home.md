@@ -5,9 +5,9 @@ Isabelle Goldstein is currently a Postdoctoral Researcher at the Mitchell Instit
 <button onclick="location.href='https://orcid.org/0000-0001-9247-9474'">ORCID</button>
 </center>
 
-<center>
+<!-- <center>
 <button onclick="location.href='https://isabelle-goldstein.github.io/glassart.html'">Glass Art</button>
-</center>
+</center> -->
 
 
 #### Research Interests
