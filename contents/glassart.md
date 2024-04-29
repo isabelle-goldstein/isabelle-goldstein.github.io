@@ -1,5 +1,3 @@
 <center>
-<b>
-Website currently under construction. 
-</b>
+[photos]
 </center>
