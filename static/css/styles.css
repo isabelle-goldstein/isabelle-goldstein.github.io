@@ -465,7 +465,7 @@ legend + * {
 }
 
 ::file-selector-button {
-  font: inherit;
+  font: "Playfair Display";
   -webkit-appearance: button;
   appearance: button;
 }
