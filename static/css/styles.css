@@ -344,6 +344,7 @@ label {
 button {
   border-radius: 8px;
   /*background-color: #71a3d4;*/
+  font-family: "Playfair Display";
 }
 
 button:focus:not(:focus-visible) {
