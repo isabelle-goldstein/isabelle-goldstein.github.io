@@ -1,0 +1,9 @@
+To add new sections to the main page, follow the current examples in index.html. 
+  In index.html, you'll need to add an area in the nav bar section and add an area in the main body, above the footer.
+  You'll need to add a SectionName.md file to the contents directory with the section material.
+  In static/js/scripts.js, you will also need to add the section identifier 
+(.md file name, but idk if it needs to be the same as the ref tag in index.html) to the following line:
+
+const section_names = ['home', 'publications', 'artsection'] 
+
+
