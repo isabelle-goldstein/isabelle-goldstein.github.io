@@ -1,5 +1,5 @@
 <center>
-I am also a cross disciplinary artist: a lifelong dancer, a glassblower, and bookbinder. Click below to see examples of my work. 
+I am also a cross disciplinary artist: a lifelong dancer, a glassblower, and a bookbinder. Click below to see examples of my work. 
 </center>
 
 <center>
