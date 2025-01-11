@@ -3,5 +3,5 @@ I am also a cross disciplinary artist: a lifelong dancer, a glassblower, and boo
 </center>
 
 <center>
-<button onclick="location.href='https://isabelle-goldstein.github.io/glassart.html'">Art Photos</button>
+<button onclick="location.href='https://isabelle-goldstein.github.io/artpage.html'">Art Photos</button>
 </center>
