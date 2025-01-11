@@ -1,7 +1,7 @@
 <center>
-[photos]
+I am also a cross disciplinary artist: a lifelong dancer, a glassblower, and bookbinder. Click below to see examples of my work. 
 </center>
 
 <center>
-<button onclick="location.href='https://isabelle-goldstein.github.io/glassart.html'">Glass Art</button>
+<button onclick="location.href='https://isabelle-goldstein.github.io/glassart.html'">Art Photos</button>
 </center>
