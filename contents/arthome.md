@@ -22,8 +22,8 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="static/assets/gallery/IMG_2095.jpeg">
-      <img src="static/assets/gallery/IMG_2095.jpeg" alt="Kuttrolf Stem Glass">
+    <a target="_blank" href="static/assets/gallery/IMG_2095.jpg">
+      <img src="static/assets/gallery/IMG_2095.jpg" alt="Kuttrolf Stem Glass">
     </a>
     <div class="desc">Wine glass with Kuttrolf stem, 2024.</div>
   </div>
