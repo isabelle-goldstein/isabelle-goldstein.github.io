@@ -5,7 +5,7 @@
  <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="static/assets/gallery/DSC_0129.JPG">
-      <img src="static/assets/gallery/DSC_0129.JP" alt="Northern Lights">
+      <img src="static/assets/gallery/DSC_0129.JPG" alt="Northern Lights">
     </a>
     <div class="desc">The northern lights just south of the Arctic Circle, 2023.</div>
   </div>
