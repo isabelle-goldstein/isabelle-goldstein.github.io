@@ -1,7 +1,8 @@
 <b>Website currently under construction.</b>
 
 <!-- GALLERY -->
-<!-- see: -->
+<!-- see: https://www.w3schools.com/howto/howto_css_image_gallery.asp-->
+<!--
  <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="static/assets/gallery/DSC_0129.JPG">
@@ -28,6 +29,7 @@
     <div class="desc">Wine glass with Kuttrolf stem, 2024.</div>
   </div>
 </div>
+-->
 
 <!--
 <div class="responsive">
@@ -42,4 +44,5 @@
 <div class="clearfix"></div> -->
 
 <!-- END GALLERY -->
+
 
