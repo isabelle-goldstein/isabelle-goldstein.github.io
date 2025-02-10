@@ -178,3 +178,15 @@ div.desc {
 }
 
 /* END GALLERY CSS */
+
+/* THIS GALLERY STUFF FROM https://blog.hubspot.com/website/html-css-image-gallery */
+.gallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
