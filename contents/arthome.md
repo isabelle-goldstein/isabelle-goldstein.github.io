@@ -7,9 +7,8 @@
 
 <!-- GALLERY -->
 <!-- see: https://www.w3schools.com/howto/howto_css_image_gallery.asp-->
-<!--
  <div class="responsive">
-  <div class="gallery">
+  <div class="gallery-container">
     <a target="_blank" href="static/assets/gallery/DSC_0129.JPG">
       <img src="static/assets/gallery/DSC_0129.JPG" alt="Northern Lights">
     </a>
@@ -18,7 +17,7 @@
 </div>
 
 <div class="responsive">
-  <div class="gallery">
+  <div class="gallery-container">
     <a target="_blank" href="static/assets/gallery/IMG_6469.JPG">
       <img src="static/assets/gallery/IMG_6469.JPG" alt="Glass vase">
     </a>
@@ -27,14 +26,14 @@
 </div>
 
 <div class="responsive">
-  <div class="gallery">
+  <div class="gallery-container">
     <a target="_blank" href="static/assets/gallery/IMG_2095.jpg">
       <img src="static/assets/gallery/IMG_2095.jpg" alt="Kuttrolf Stem Glass">
     </a>
     <div class="desc">Wine glass with Kuttrolf stem, 2024.</div>
   </div>
 </div>
--->
+
 
 <!--
 <div class="responsive">
