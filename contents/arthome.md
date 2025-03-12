@@ -14,8 +14,7 @@
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Boat on Calm Water"
     />
-
-    <img
+   <img
       src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Wintry Mountain Landscape"
@@ -28,11 +27,10 @@
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Mountains in the Clouds"
     />
-
     <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Boat on Calm Water"
+     src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
+     class="w-100 shadow-1-strong rounded mb-4"
+     alt="Boat on Calm Water"
     />
   </div>
 
@@ -42,7 +40,6 @@
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Waves at Sea"
     />
-
     <img
       src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
       class="w-100 shadow-1-strong rounded mb-4"
