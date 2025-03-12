@@ -6,7 +6,7 @@
 -->        
 <!--             <a href="https://www.instagram.com/the_glasstrophysicist?igsh=MWU3emxhYWIyc2QxZA%3D%3D" title="Instagram Link"> <i class="bi bi-instagram h3"></i></a> -->
 
-#### Book Binding
+### Book Binding
  A hand bound copy of my Ph.D. thesis, "Movement in the Dark: Gravitational Probes of Dark Matter Models" <br>
  Materials: leather, paper, silver foil. Written 2023, bound 2024.<br>
 <!-- GALLERY -->
@@ -42,7 +42,7 @@
 </div>
 <!-- Gallery -->
 
-#### Glass Blowing
+### Glass Blowing
 
 <!-- BOOTSTRAP IMAGES: https://mdbootstrap.com/docs/standard/content-styles/images/-->
 <img src="static/assets/gallery/misc_imgs/DSC_0129.JPG" class="img-fluid" alt="Northern Lights" />
