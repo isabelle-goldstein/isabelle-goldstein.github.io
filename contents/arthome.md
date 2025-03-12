@@ -9,7 +9,6 @@
 <center>
  A hand bound copy of my Ph.D. thesis, "Movement in the Dark: Gravitational Probes of Dark Matter Models" <br>
  Materials: leather, paper, silver foil. Written 2023, bound 2024.<br>
-</center>
 <!-- GALLERY -->
 <!-- see: https://mdbootstrap.com/docs/standard/extended/gallery/-->
 <div class="row">
@@ -40,51 +39,7 @@
   </div>
 </div>
 <!-- Gallery -->
-
-
-<!-- GALLERY -->
-<!-- see: https://mdbootstrap.com/docs/standard/extended/gallery/-->
-<div class="row">
-  <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Boat on Calm Water"
-    />
-   <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain1.webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Wintry Mountain Landscape"
-    />
-  </div>
-
-  <div class="col-lg-4 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Mountains in the Clouds"
-    />
-    <img
-     src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp"
-     class="w-100 shadow-1-strong rounded mb-4"
-     alt="Boat on Calm Water"
-    />
-  </div>
-
-  <div class="col-lg-4 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Waves at Sea"
-    />
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Yosemite National Park"
-    />
-  </div>
-</div>
-<!-- Gallery -->
+</center>
 
 
 <!-- BOOTSTRAP IMAGES: https://mdbootstrap.com/docs/standard/content-styles/images/-->
