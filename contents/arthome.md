@@ -61,7 +61,7 @@ The northern lights just south of the Arctic Circle, 2023.
 <img src="static/assets/gallery/IMG_6469.JPG" class="img-fluid" alt="Glass vase">
 Glass vase from <i>Roman Replication</i>, 2018.
 
-<img src="static/assets/gallery/IMG_2095.jpg" alt="Kuttrolf Stem Glass">
+<img src="static/assets/gallery/IMG_2095.jpg" class="img-fluid" alt="Kuttrolf Stem Glass">
 Wine glass with Kuttrolf stem, 2024.
 
 
