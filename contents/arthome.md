@@ -1,19 +1,18 @@
+<!--
 <center>
  <b>Website currently under construction.</b><br>
  <button onclick="location.href='https://isabelle-goldstein.github.io'">Go to Home</button><br>
 </center>
-        
+-->        
 <!--             <a href="https://www.instagram.com/the_glasstrophysicist?igsh=MWU3emxhYWIyc2QxZA%3D%3D" title="Instagram Link"> <i class="bi bi-instagram h3"></i></a> -->
 
-
-<center>
+#### Book Binding
  A hand bound copy of my Ph.D. thesis, "Movement in the Dark: Gravitational Probes of Dark Matter Models" <br>
  Materials: leather, paper, silver foil. Written 2023, bound 2024.<br>
- </center>
 <!-- GALLERY -->
 <!-- see: https://mdbootstrap.com/docs/standard/extended/gallery/-->
 <div class="container">
- <div class="row">
+ <div class="row justify-content-center">
    <div class="col-lg-4 mb-4 mb-lg-0">
      <img
        src="static/assets/gallery/thesis_imgs/thesis_front.jpeg"
