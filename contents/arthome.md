@@ -1,9 +1,8 @@
-<!--
 <center>
- <b>Website currently under construction.</b><br>
+ <b>Website currently under construction!</b><br>
  <button onclick="location.href='https://isabelle-goldstein.github.io'">Go to Home</button><br>
 </center>
--->        
+      
 <!--             <a href="https://www.instagram.com/the_glasstrophysicist?igsh=MWU3emxhYWIyc2QxZA%3D%3D" title="Instagram Link"> <i class="bi bi-instagram h3"></i></a> -->
 
 ### Book Binding
