@@ -8,7 +8,7 @@
 ### Book Binding
  A hand bound copy of my Ph.D. thesis, "Movement in the Dark: Gravitational Probes of Dark Matter Models" <br>
  Materials: leather, paper, silver foil. Written 2023, bound 2024.<br>
-<!-- GALLERY -->
+<!-- THESIS GALLERY -->
 <!-- see: https://mdbootstrap.com/docs/standard/extended/gallery/-->
 <div class="container">
  <div class="row justify-content-center">
@@ -39,17 +39,59 @@
    </div>
  </div>
 </div>
-<!-- Gallery -->
-
-<!-- BOOTSTRAP IMAGES: https://mdbootstrap.com/docs/standard/content-styles/images/-->
-<img src="static/assets/gallery/misc_imgs/DSC_0129.JPG" class="img-fluid" alt="Northern Lights" />
-The northern lights just south of the Arctic Circle, 2023.
+<!-- Thesis Gallery -->
 
 ### Glass Blowing
+<!--
 <img src="static/assets/gallery/glass_imgs/roman_repl.JPG" class="img-fluid" alt="Glass vase">
 Glass vase from <i>Roman Replication</i>, 2018.
 
 <img src="static/assets/gallery/glass_imgs/kuttrolf.jpg" class="img-fluid" alt="Kuttrolf Stem Glass">
 Wine glass with Kuttrolf stem, 2024.
+-->
+
+
+<!-- GLASS GALLERY -->
+<!-- see: https://mdbootstrap.com/docs/standard/extended/gallery/-->
+<div class="container">
+ <div class="row justify-content-center">
+   <div class="col-lg-4 mb-4 mb-lg-0">
+     <img
+       src="static/assets/gallery/glass_imgs/roman_repl.JPG"
+       class="w-100 shadow-1-strong rounded mb-4"
+       alt="Blue glass vase with handles on either side."
+     />
+     Glass vase from <i>Roman Replication</i>, 2018.
+     <img
+      src="static/assets/gallery/glass_imgs/prunt_cups.jpeg"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Two footed wine glasses with prunts. The foot, prunts, and lip are on the two cups are purple and green respectively."
+     />
+    Footed glasses with decorative prunts, 2024. 
+   </div>
+ 
+   <div class="col-lg-4 mb-4 mb-lg-0">
+     <img
+       src="static/assets/gallery/glass_imgs/belltowercups.jpeg"
+       class="w-100 shadow-1-strong rounded mb-4"
+       alt="Two bell tower glasses. One is pink, the other is blue with a clear sphere between body and foot."
+     />
+    Bell tower glasses, 2024. 
+     <img
+       src="static/assets/gallery/glass_imgs/kuttrolf.jpg"
+       class="w-100 shadow-1-strong rounded mb-4"
+       alt="Kuttrolf Stem Glass"
+     />
+    Wine glass with Kuttrolf stem, 2024.
+   </div>
+ </div>
+</div>
+<!-- Glass Gallery -->
+
+
+<!-- BOOTSTRAP IMAGES: https://mdbootstrap.com/docs/standard/content-styles/images/-->
+<img src="static/assets/gallery/misc_imgs/DSC_0129.JPG" class="img-fluid" alt="Northern Lights" />
+The northern lights just south of the Arctic Circle, 2023.
+
 
 
