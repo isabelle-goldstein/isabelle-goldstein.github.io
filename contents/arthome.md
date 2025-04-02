@@ -88,10 +88,10 @@ Wine glass with Kuttrolf stem, 2024.
 </div>
 <!-- Glass Gallery -->
 
-
+### Other Photos
 <!-- BOOTSTRAP IMAGES: https://mdbootstrap.com/docs/standard/content-styles/images/-->
 <img src="static/assets/gallery/misc_imgs/DSC_0129.JPG" class="img-fluid" alt="Northern Lights" />
-The northern lights just south of the Arctic Circle, 2023.
+The northern lights just south of the Arctic Circle, 2023. Taken on Nikon D3100. 
 
 
 
