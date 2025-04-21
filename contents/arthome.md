@@ -78,11 +78,11 @@ Wine glass with Kuttrolf stem, 2024.
      />
     Bell tower glasses, 2024. 
      <img
-       src="static/assets/gallery/glass_imgs/kuttrolf.jpg"
+       src="static/assets/gallery/glass_imgs/twokuttrolfs.jpg"
        class="w-100 shadow-1-strong rounded mb-4"
-       alt="Kuttrolf Stem Glass"
+       alt="Kuttrolf Stem Wine Glasses"
      />
-    Wine glass with Kuttrolf stem, 2024.
+    Wine glasses with Kuttrolf stem, 2025.
    </div>
  </div>
 </div>
