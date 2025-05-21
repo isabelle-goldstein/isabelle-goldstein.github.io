@@ -2,6 +2,7 @@
 <!--  <b>Website currently under construction!</b><br>
  <button onclick="location.href='https://isabelle-goldstein.github.io'">Go to Home</button><br> -->
  For art related inquires, contact: <a href="mailto:the.glasstrophysicist@gmail.com">the.glasstrophysicist@gmail.com</a>  
+<button onclick="location.href='https://isabelle-goldstein.github.io/static/assets/Goldstein_Glass_CV.pdf'">Glass Resume</button>
 </center>
       
 <!--             <a href="https://www.instagram.com/the_glasstrophysicist?igsh=MWU3emxhYWIyc2QxZA%3D%3D" title="Instagram Link"> <i class="bi bi-instagram h3"></i></a> -->
