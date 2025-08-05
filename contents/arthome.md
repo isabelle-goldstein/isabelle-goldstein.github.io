@@ -123,6 +123,9 @@ Wine glass with Kuttrolf stem, 2024.
 <img src="static/assets/gallery/misc_imgs/DSC_0129.JPG" class="img-fluid" alt="Northern Lights" />
 The northern lights just south of the Arctic Circle, 2023. Taken on Nikon D3100. 
 
+<img src="static/assets/gallery/misc_imgs/icearch.JPG" class="img-fluid" alt="Ice archway over water" />
+Ocean ice just south of the Arctic Circle, 2023. Taken on Nikon D3100. 
+
 
  For art related inquires, contact: <a href="mailto:the.glasstrophysicist@gmail.com">the.glasstrophysicist@gmail.com</a>  
 </center>
