@@ -63,7 +63,7 @@ Wine glass with Kuttrolf stem, 2024.
      />
      Pendant style lamp with interior folded ring hung with chain mail, 2025. 
      <img
-      src="static/assets/gallery/glass_imgs/pcagebowl.jpg"
+      src="static/assets/gallery/glass_imgs/cagebowl.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt=" Red-to-clear glass bowl with glass cage over opening. Hung with chain mail from two angular side handles."
      />
