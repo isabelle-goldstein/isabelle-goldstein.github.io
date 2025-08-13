@@ -114,6 +114,15 @@ Wine glass with Kuttrolf stem, 2024.
      />
     Wine glasses with Kuttrolf stem, 2025.
    </div>
+   <div class="col-lg-4 mb-4 mb-lg-0">
+     <img
+       src="static/assets/gallery/glass_imgs/IMG_5584.png"
+       class="w-100 shadow-1-strong rounded mb-4"
+       alt="Hanging amber lamp."
+     />
+    Amber hanging lamp, 2025. 
+   </div>
+   
  </div>
 </div>
 <!-- Glass Gallery -->
