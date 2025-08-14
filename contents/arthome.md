@@ -116,7 +116,7 @@ Wine glass with Kuttrolf stem, 2024.
    </div>
    <div class="col-lg-4 mb-4 mb-lg-0">
      <img
-       src="static/assets/gallery/glass_imgs/IMG_5584.png"
+       src="static/assets/gallery/glass_imgs/amberhanglamp.png"
        class="w-100 shadow-1-strong rounded mb-4"
        alt="Hanging amber lamp."
      />
