@@ -1,3 +1,8 @@
+<center>
+<button onclick="location.href='https://ui.adsabs.harvard.edu/public-libraries/ykHlJTCHTz2uosekEf8OYA'">ADS Library</button>
+</center>
+
+
 - Levi K. C. Fisher, <strong>Isabelle S. Goldstein</strong>, Jason Kumar, and Louis E. Strigari (2025). Scaling Relations for Dark Matter Halos Hosting Ultra-Faint Dwarf Galaxies. arXiv:2501.11138 [[Paper]](https://arxiv.org/abs/2508.03823)
 
 - <strong>Isabelle S. Goldstein</strong> and Louis E. Strigari (2025). Kinematics of the Sagittarius Dwarf Spheroidal core: A 5D Analysis for a 6D Methodology with Gaia DR3. <i>Monthly Notices of the Royal Astronomical Society</i>, Volume 541, Issue 2, pp. 1016-1027, 12 pp. [[Paper]](https://doi.org/10.1093/mnras/staf1026)
