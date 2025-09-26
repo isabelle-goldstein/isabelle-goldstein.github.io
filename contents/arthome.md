@@ -78,11 +78,11 @@ Wine glass with Kuttrolf stem, 2024.
      />
      Cage vase, 2025.
      <img
-      src="static/assets/gallery/glass_imgs/mezstamp_lamp.png"
-      class="w-100 shadow-1-strong rounded mb-4"
-      alt="Purple glass vase hung with chain mail going around the front lip and two angular side handles."
+       src="static/assets/gallery/glass_imgs/twokuttrolfs.jpg"
+       class="w-100 shadow-1-strong rounded mb-4"
+       alt="Kuttrolf Stem Wine Glasses"
      />
-    Mezzo stampo vase hung with chain mail, 2025. 
+    Wine glasses with Kuttrolf stem, 2025.
    </div>
   
    <div class="col-lg-4 mb-4 mb-lg-0">
@@ -108,11 +108,11 @@ Wine glass with Kuttrolf stem, 2024.
      />
     Bell tower glasses, 2024. 
      <img
-       src="static/assets/gallery/glass_imgs/twokuttrolfs.jpg"
-       class="w-100 shadow-1-strong rounded mb-4"
-       alt="Kuttrolf Stem Wine Glasses"
+      src="static/assets/gallery/glass_imgs/mezstamp_lamp.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Purple glass vase hung with chain mail going around the front lip and two angular side handles."
      />
-    Wine glasses with Kuttrolf stem, 2025.
+    Mezzo stampo vase hung with chain mail, 2025. 
    </div>
    <div class="col-lg-4 mb-4 mb-lg-0">
      <img
