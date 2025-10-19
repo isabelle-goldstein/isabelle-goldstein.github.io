@@ -53,6 +53,9 @@ Wine glass with Kuttrolf stem, 2024.
 
 <!-- GLASS GALLERY -->
 <!-- see: https://mdbootstrap.com/docs/standard/extended/gallery/-->
+<center>
+<button onclick="location.href='https://isabelle-goldstein.github.io/static/assets/Goldstein_Glass_CV.pdf'">Glass Resume</button>
+</center>
 <div class="container">
  <div class="row justify-content-center">
      <div class="col-lg-4 mb-4 mb-lg-0">
@@ -139,7 +142,4 @@ Ocean ice just south of the Arctic Circle, 2023. Taken on Nikon D3100.
  For art related inquires, contact: <a href="mailto:the.glasstrophysicist@gmail.com">the.glasstrophysicist@gmail.com</a>  
 </center>
 
-<center>
-<button onclick="location.href='https://isabelle-goldstein.github.io/static/assets/Goldstein_Glass_CV.pdf'">Glass Resume</button>
-</center>
 
