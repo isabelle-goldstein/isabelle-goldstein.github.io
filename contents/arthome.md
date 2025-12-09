@@ -124,6 +124,12 @@ Wine glass with Kuttrolf stem, 2024.
        alt="Hanging amber lamp."
      />
     Amber hanging lamp, 2025. 
+    <img
+      src="static/assets/gallery/glass_imgs/hand_side.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="White glass sculpted hand seen from the side."
+     />
+    Opaline glass sculpted hand, 2025. 
    </div>
    
  </div>
