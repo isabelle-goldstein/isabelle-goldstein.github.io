@@ -11,4 +11,4 @@ Isabelle Goldstein is currently a Postdoctoral Researcher at the Mitchell Instit
 
 
 #### Research Interests
-My research interests lie in astrophysics and cosmology, particularly in the intersection between theory and observation. Previous work has focused on dark matter searches, as well as the large scale structure of dark matter in contrast to baryonic matter. I am interested in studying local group astrophysics to learn about the dark and light sector. 
+My research interests lie in astrophysics and cosmology, particularly in the intersection between theory and observation. Previous work has focused on dark matter searches in Milky Way dwarf galaxies. I am interested in studying local group astrophysics to learn about the dark and light sector. 
