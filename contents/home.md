@@ -1,4 +1,5 @@
-Isabelle Goldstein is currently a Postdoctoral Researcher at the Mitchell Institute of Fundamental Physics, Texas A&M University.
+Hello, I'm Isabelle Goldstein! Currently a Postdoctoral Researcher at the Mitchell Institute of Fundamental Physics, Texas A&M University.
+My research interests lie in astrophysics and cosmology, particularly in the intersection between theory and observation. My previous work has focused on dark matter searches in Milky Way dwarf galaxies. I am particularly interested in studying local group astrophysics, using the light sector to learn about the dark universe, and in the pursuit of teaching, where pedagogy can illuminate understanding. 
 
 <center>
 <button onclick="location.href='https://isabelle-goldstein.github.io/static/assets/GoldsteinCV_v3.pdf'">Curriculum Vitae</button>
@@ -10,5 +11,4 @@ Isabelle Goldstein is currently a Postdoctoral Researcher at the Mitchell Instit
 </center> -->
 
 
-#### Research Interests
-My research interests lie in astrophysics and cosmology, particularly in the intersection between theory and observation. Previous work has focused on dark matter searches in Milky Way dwarf galaxies. I am interested in studying local group astrophysics to learn about the dark and light sector. 
+
